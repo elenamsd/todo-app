@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using ToDoAPP.Application;
 using ToDoAPP.Application.UseCases;
+using ToDoAPP.Application.UseCases.UpdateTask;
 using ToDoAPP.Infrastructure;
 using ToDoAPP.Models;
 
@@ -23,6 +24,8 @@ public static class DependencyInjectionExtension
     private static void AddUseCases(this IServiceCollection services)
     {
         services.AddScoped<RetrieveAllTodoTask>();
+        services.AddScoped<AddTask>();
+        services.AddScoped<UpdateTask>();
     }
 
     public static void AddTodoList(this IServiceCollection services)

@@ -1,15 +1,11 @@
-﻿namespace ToDoAPP.Domain;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace ToDoAPP.Domain;
 
 public class TodoTask
 {
-    public TodoTask(string id, string title, string? description, bool isCompleted)
-    {
-        Id = id;
-        Title = title;
-        Description = description;
-        IsCompleted = isCompleted;
-    }
-
+    [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public string Id { get; set; }
     public string Title { get; set; }
     public string? Description { get; set; }

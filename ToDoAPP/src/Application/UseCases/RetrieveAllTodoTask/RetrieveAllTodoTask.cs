@@ -11,8 +11,10 @@ public class RetrieveAllTodoTask
         _todoRepository = todoRepository;
     }
 
-    public async Task<List<TodoTask>> Handle()
+    public async Task<RetrieveAllTodoTaskResponse> Handle()
     {
-        return await _todoRepository.RetrieveAllTasks();
+        var tasks = await _todoRepository.RetrieveAllTasks();
+        var response = new RetrieveAllTodoTaskResponse(){data = tasks};
+        return response;
     }
 }
