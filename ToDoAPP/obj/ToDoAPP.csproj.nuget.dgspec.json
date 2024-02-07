@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elenasacramento/RiderProjects/ToDoAPP/ToDoAPP/ToDoAPP.csproj": {}
+    "/Users/elenasacramento/Documents/Formacion/Personal/ToDoAPP/ToDoAPP/ToDoAPP.csproj": {}
   },
   "projects": {
-    "/Users/elenasacramento/RiderProjects/ToDoAPP/ToDoAPP/ToDoAPP.csproj": {
+    "/Users/elenasacramento/Documents/Formacion/Personal/ToDoAPP/ToDoAPP/ToDoAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elenasacramento/RiderProjects/ToDoAPP/ToDoAPP/ToDoAPP.csproj",
+        "projectUniqueName": "/Users/elenasacramento/Documents/Formacion/Personal/ToDoAPP/ToDoAPP/ToDoAPP.csproj",
         "projectName": "ToDoAPP",
-        "projectPath": "/Users/elenasacramento/RiderProjects/ToDoAPP/ToDoAPP/ToDoAPP.csproj",
+        "projectPath": "/Users/elenasacramento/Documents/Formacion/Personal/ToDoAPP/ToDoAPP/ToDoAPP.csproj",
         "packagesPath": "/Users/elenasacramento/.nuget/packages/",
-        "outputPath": "/Users/elenasacramento/RiderProjects/ToDoAPP/ToDoAPP/obj/",
+        "outputPath": "/Users/elenasacramento/Documents/Formacion/Personal/ToDoAPP/ToDoAPP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elenasacramento/.nuget/NuGet/NuGet.Config"
