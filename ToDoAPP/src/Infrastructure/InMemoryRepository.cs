@@ -33,7 +33,7 @@ public class InMemoryRepository: ITodoRepository
         return task;
     }
 
-    public async Task<ActionResult>  EditTask(string id, UpdateTaskRequest task)
+    public async Task<ActionResult> EditTask(string id, UpdateTaskRequest task)
     {
         if (id != task.Id)
         {

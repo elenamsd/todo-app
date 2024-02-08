@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4fzl25f87omtintokvx32W6dAJsJwJbUZWfZKc2rOYd4UKRJ8Jbtswig8+yjtISPg/ej2iifRDOlFhHk0KtnjQ==",
+  "dgSpecHash": "CBPsN2PnGE5AQmSk5fE/JqabRslL7xOiSAGHuriO/VZ3kT2d1qy0jB68k+67gybMiUdPC9yJzysxWGmVY+6Y8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\workspace\\todo-app\\ToDoAPP\\ToDoAPP.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\workspace\\todo-app\\ToDoAPP\\test\\ToDoAPP.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

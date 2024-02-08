@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ToDoAPP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ToDoAPP.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ToDoAPP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ToDoAPP")]
+[assembly: System.Reflection.AssemblyProductAttribute("ToDoAPP.Tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ToDoAPP.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.CompilerServices.InternalsVisibleTo("ToDoAPP")]
 

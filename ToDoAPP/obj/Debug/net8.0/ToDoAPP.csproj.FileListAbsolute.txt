@@ -639,3 +639,4 @@ C:\Users\Usuario\workspace\todo-app\ToDoAPP\obj\Debug\net8.0\ToDoAPP.genruntimec
 C:\Users\Usuario\workspace\todo-app\ToDoAPP\obj\Debug\net8.0\ref\ToDoAPP.dll
 C:\Users\Usuario\workspace\todo-app\ToDoAPP\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\Usuario\workspace\todo-app\ToDoAPP\bin\Debug\net8.0\Moq.dll
+C:\Users\Usuario\workspace\todo-app\ToDoAPP\obj\Debug\net8.0\MvcTestingAppManifest.json

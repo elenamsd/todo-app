@@ -10513,11 +10513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\workspace\\todo-app\\ToDoAPP\\ToDoAPP.csproj",
-      "projectName": "ToDoAPP",
-      "projectPath": "C:\\Users\\Usuario\\workspace\\todo-app\\ToDoAPP\\ToDoAPP.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\workspace\\todo-app\\ToDoAPP\\test\\ToDoAPP.Tests.csproj",
+      "projectName": "ToDoAPP.Tests",
+      "projectPath": "C:\\Users\\Usuario\\workspace\\todo-app\\ToDoAPP\\test\\ToDoAPP.Tests.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\workspace\\todo-app\\ToDoAPP\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\workspace\\todo-app\\ToDoAPP\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
